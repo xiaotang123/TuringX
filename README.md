@@ -1,2 +1,2 @@
 # TuringX
-A machine learning structure developed by TenorFlow
+A machine learning structure developed by TensorFlow
